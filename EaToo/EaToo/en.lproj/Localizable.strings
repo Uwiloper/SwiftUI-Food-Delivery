@@ -1,0 +1,51 @@
+/* Recursos */
+"saltar" = "skip";
+
+/* Pantalla 1  de tips */
+"titulo1" = "Encuentra un Restaurante";
+"frase1" = "Opcion más rápida para proporcionar alimentos cerca de ti";
+
+"titulo2" = "Pick the food";
+"frase2" = "Fastest";
+
+"titulo3" = "Get Fast Delivery";
+"frase3" = "fence";
+
+/* Pantalla de introduccion */
+"slogan" = "Fastest food delivery service for you";
+"modoAdministrador" = "Panel Administrador";
+
+/* Pantalla LOGIN */
+"fullName" = "Nombre Completo";
+"enterName" = "Ingresa tu Nombre Completo";
+
+"phoneNumber" = "Numero de Celular";
+"enterPhone" = "Ingresa tu número de celular";
+
+"password" = "Contraseña";
+"enterPassword" = "Ingresa tu Contraseña";
+
+"login" = "Ingresar";
+"register" = "Registrarse";
+
+"DontHAccount" = "No tienes una Cuenta?";
+"signUp" = "Regístrate";
+
+/* Pantalla Principal */
+"home" = "Inicio";
+"search" = "Buscar";
+"restaurants" = "Restaurantes";
+"popularFoods" = "Más pedidos";
+"viewAll" = "Ver Todo";
+"freeDelivery" = "Delivery Gratis";
+
+/* Pantalla usuario */
+"favourite" = "Favoritos";
+"settings" = "Configuracion";
+
+
+/* Productos View*/
+"productos" = "Productos";
+
+/* favoritos View*/
+"favoritos" = "Favoritos";
