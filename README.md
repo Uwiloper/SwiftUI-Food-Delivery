@@ -62,7 +62,7 @@ Un sistema de gestión de contenido completo integrado en la app:
 
 ---
 
-## 🛠️ Especificaciones Técnicas
+## Especificaciones Técnicas
 
 ### Arquitectura & Diseño
 El proyecto sigue una arquitectura **MVVM (Model-View-ViewModel)** estricta para separar la lógica de negocio de la interfaz de usuario, facilitando la escalabilidad y el testing.
@@ -80,7 +80,7 @@ El proyecto sigue una arquitectura **MVVM (Model-View-ViewModel)** estricta para
 
 ---
 
-## 🚀 Instalación y Despliegue
+## Instalación y Despliegue
 
 Sigue estos pasos para ejecutar el proyecto en tu entorno local (macOS).
 
