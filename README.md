@@ -1,6 +1,9 @@
 <div align="center">
-<img width="180" height="180" alt="logo_eatoo" src="https://github.com/user-attachments/assets/22b3784a-e6c3-4ef2-9fbf-170e36985d4f" />
-</a>
+  <img src="Fotos/Eatoo-Swift-background.jpg" width="100%" style="border-radius: 10px;" alt="Banner EaToo">  
+  <br />
+  <br />
+  
+<img src="Fotos/logo-eatoo.png" width="150" alt="Logo EaToo">
 
   <h1 align="center">Ecommerce EaToo Swift</h1>
 
@@ -28,7 +31,7 @@
 <br />
 
 <div align="center">
-  <img width="1920" height="310" alt="Eatoo-tira-01" src="https://github.com/user-attachments/assets/60b286d9-4cf3-4b8d-ae8b-ca42807f7377" />
+  <img src="Fotos/Eatoo-tira.png" width="100%" style="border-radius: 10px;">
 </div>
 
 <br />
@@ -109,8 +112,6 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local (macOS).
     Selecciona un simulador (ej. iPhone 14 Pro) y presiona `Cmd + R`.
 
 ---
-![Eatoo Swift Fondo Perfil Fotos-01](https://github.com/user-attachments/assets/da7865c2-fe8f-46ec-b98c-b52136079ba9)
-
 <div align="center">
     <p>Diseño basado en: </p>
   <a href="https://www.behance.net/gallery/229420607/Food-Delivery-App-UIUX-Case-Study">Food Delivery App UI/UX Case Study</a> 
