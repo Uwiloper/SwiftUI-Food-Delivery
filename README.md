@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Fotos/Eatoo-Swift-background.jpg" width="100%" style="border-radius: 10px;" alt="Banner EaToo">  
+  <img src="Fotos/Eatoo-Swift-background.webp" width="100%" style="border-radius: 10px;" alt="Banner EaToo">  
   
   <br />
   
@@ -29,7 +29,7 @@
 <br />
 
 <div align="center">
-  <img src="Fotos/Eatoo-tira.png" width="100%" style="border-radius: 10px;" alt="Vistas de la App">
+  <img src="Fotos/Eatoo-tira.webp" width="100%" style="border-radius: 10px;" alt="Vistas de la App">
 </div>
 
 <br />
@@ -112,7 +112,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local (macOS).
 ---
 
 <div align="center">
-  <img src="Fotos/logo-eatoo.png" width="100" alt="Logo EaToo">
+  <img src="Fotos/logo-eatoo.webp" width="100" alt="Logo EaToo">
   <p>Diseño basado en el estudio UI/UX:</p>
   <a href="https://www.behance.net/gallery/229420607/Food-Delivery-App-UIUX-Case-Study">Food Delivery App UI/UX Case Study</a> 
 </div>
